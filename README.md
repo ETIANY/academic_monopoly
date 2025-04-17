@@ -1,3 +1,5 @@
+## Global Faculty Networks and U.S. Doctoral Graduates' Monopoly: The Pareto Principle in Academia
+
 This repository contains code and resources related to the research article "Global Faculty Networks and U.S. Doctoral Graduates' Monopoly: The Pareto Principle in Academia." This study explores the academic concentration of U.S. doctoral graduates in elite institutions and its implications on global faculty networks. It applies the Pareto principle (80/20 rule) to examine disparities in academic influence and career trajectories.
 
 # Contents
